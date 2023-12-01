@@ -1,0 +1,7 @@
+{
+  "name": "catat_keuangan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
